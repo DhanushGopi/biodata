@@ -145,6 +145,8 @@ body{
 .about{
   width: 980px;
   padding:20px 10px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .header-text{
