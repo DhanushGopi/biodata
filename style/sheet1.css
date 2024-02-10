@@ -180,6 +180,18 @@ body{
   width: 960px;
   padding-bottom: 5px;
 }
+/*Map Location*/
+.mapbox{
+  width: 980px;
+  height: 500px;
+  padding:20px 10px;
+}
+
+.map{
+  width: 980px;
+  height: 500px;
+}
+
 
 /*Footer Section*/
 
